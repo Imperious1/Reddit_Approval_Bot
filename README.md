@@ -1,0 +1,2 @@
+# Reddit_Approval_Bot
+Uses a pinned moderator post, reads a pin number from it, and automatically approves users who type !agree {pin_number} and removes their comment.      Concept: force users to read a post and agree to the terms and conditions in order to submit in a subreddit. Otherwise, remove any submissions from unapproved users. Approval is done bot-side and not with Reddit's approved user system.
